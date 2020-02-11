@@ -166,3 +166,17 @@ Secret
 5)Подключена network-policy
 6)Подключен Volume
 7)Подклчено Динамическое выделение Volume'ов
+
+HW28
+
+Интеграция Kubernetes в GitlabCI
+Задача:
+Работа с Helm
+Развертывание Gitlab в Kubernetes
+Запуск CI/CD конвейера в Kubernetes
+
+Выполнено
+1)Helm установлен
+2)Создан пакет для Helm
+3)Gitlab развернут в Kubernetes
+4)Работа с CI/CD конвейером в Kubernetes
