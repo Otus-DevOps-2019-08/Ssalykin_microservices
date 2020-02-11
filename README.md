@@ -144,3 +144,25 @@ HW26
 2)Установлен Minikube
 3)Приложение поднято в кластере локально
 4)Приложение развернуто в GKE
+
+
+HW27
+Ingress-контроллеры и сервисы в Kubernetes.
+Задача
+Ingress Controller 
+•Ingress  
+Secret 
+•TLS 
+•LoadBalancer Service 
+•Network Policies 
+•PersistentVolumes 
+•PersistentVolumeClaims
+
+Выполнено
+1)Подключен NodePort
+2)Подключен LoadBalancer
+3)Подключен Ingress
+4)Подключен TLS
+5)Подключена network-policy
+6)Подключен Volume
+7)Подклчено Динамическое выделение Volume'ов
