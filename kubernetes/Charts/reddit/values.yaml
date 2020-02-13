@@ -1,0 +1,20 @@
+comment:
+  image:
+    repository: wazuk/comment
+    tag: latest
+  service:
+    externalPort: 9292
+
+post:
+  image:
+    repository: wazuk/post
+    tag: latest
+  service:
+    externalPort: 5000
+
+ui:
+  image:
+    repository: wazuk/ui
+    tag: latest
+  service:
+    externalPort: 9292
